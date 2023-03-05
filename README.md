@@ -1,16 +1,31 @@
-### Hi there 👋
+# Brandon Ly Bautista Bermudez 
+#### @lybauber 
+**Bogotá - Colombia**
 
-<!--
-**lybauber/lybauber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Amante de la TI y en continuo aprendizaje en diferentes temas del desarrollo web, actualmente estudiante activo de **Egg Cooperation- Programación  desde Cero** y **UndefineAcademy - Full Stack Web Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En aprendizaje:
+
+## Semana 1
+1. Terminal
+2. Git
+3. Html
+3. CSS
+
+
+### 🕹La Terminal
+| Comandos | Descripción |
+|----------| --------------------------------|
+| pwd      |Conocer donde estan ubicados     |
+| mkdir    |Crear carpeta                    |
+| mv       |Mover archivos o carpetas        |
+| mv       |Cambiar nombre de archivo/carpeta|
+| ls       |Mostra documentos                |
+
+### Comandos Alias
+Comandos con un nombre definidos personalmente para optimizar tiempos de escritura
+|Alias  | Descripción   |
+|-------|---------------|
+| cl    |clear: Limpia la terminal|
+| cc    |Crear carpeta            |
